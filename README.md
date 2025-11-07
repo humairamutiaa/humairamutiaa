@@ -41,6 +41,5 @@
 </p>
 
 <p align="center" style="color:#4c2f26;">
-  <i>Wishing you a calm, happy, and error-free coding day ☕</i>
+  <i>Wishing you a calm and happy day, with code that flows without errors 🌸</i>
 </p>
-
