@@ -1,50 +1,45 @@
 <!-- 🌧️ Totoro Header -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ee/63/3f/ee633fb7530e15a81cf7b06f8376d4c2.gif" width="400" alt="Totoro under the rain">
+<p align="right">
+  <img src="https://github.com/humairamutiaa/humairamutiaa/blob/main/My%20Neighbor%20Totoro%20Weight%20GIF.gif" width="200" alt="Totoro lifting weights">
 </p>
 
-<h1 align="center">Hi there 👋, I'm Maira </h1>
-<h3 align="center">A curious developer who loves learning and building things</h3>
+<h1 align="center">Hi there 👋, I'm Humaira Mutia</h1>
+<h3 align="center">a calm developer who loves web design and learning new things ☁️</h3>
 
 ---
 
-### 🧭 About Me
-- 💻 Passionate about web development and clean code  
-- 🌱 Currently learning: Kotlin, Java, and Python
-- ✨ Interested in UI/UX design and creative technologies  
-- 📫 Reach me at: hummeyramutia@gmail.com 
+### 🌱 About Me
+- 🎨 Interested in **web design** and creating interfaces that feel simple & peaceful.  
+- 💻 Currently learning **Kotlin**, **Java**, **Python**, and **HTML**.  
+- ☕ I enjoy quiet mornings, good code structure, and Ghibli-like calmness while working.  
+- 🌧️ Always open to learning something new and exploring creative ideas.
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode" />
+### ☁️ Contact Me :
+<p align="left">
+  <a href="https://instagram.com/humairamutiaa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%239bbad1.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:hummeyramutia@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%239dc3c2.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 📂 Featured Projects
-| Project | Description |
-|----------|--------------|
-| [Portfolio Website](#) | My personal site built with React and TailwindCSS |
-| [Notes App](#) | A minimalist notes app focused on simplicity |
-| [API Playground](#) | Small backend experiments with Express.js |
-
----
-
-### 🌐 Connect with Me
+### 🪶 GitHub Stats :
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=humairamutiaa&show_icons=true&theme=calm&bg_color=00000000&title_color=7a9cc6&icon_color=8bbbd9&text_color=bfcbd7&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humairamutiaa&layout=compact&theme=calm&bg_color=00000000&title_color=7a9cc6&text_color=cad8e4&hide_border=true" height="160"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/17/6d/4e/176d4e7e68cfa1e0db6ed75f2c9f54f9.gif" width="250" alt="Totoro waving goodbye">
+  <img src="https://github.com/humairamutiaa/humairamutiaa/blob/main/My%20Neighbor%20Totoro%20Weight%20GIF.gif" width="180" alt="Totoro smiling">
 </p>
 
 <p align="center">
-  <i>Thanks for visiting! Have a calm and creative day 🌤️</i>
+  <i>Thanks for visiting — may your day be as peaceful as Totoro’s forest 🌧️🍃</i>
 </p>
