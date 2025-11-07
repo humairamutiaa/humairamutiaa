@@ -1,45 +1,45 @@
-<!-- 🌧️ Totoro Header -->
+<!-- 🤎 Mahogany Header -->
 <p align="center">
-  <img src="https://github.com/humairamutiaa/humairamutiaa/blob/main/happy%20my%20neighbor%20totoro%20GIF.gif" width="200" alt="Totoro lifting weights">
+  <img src="https://github.com/humairamutiaa/humairamutiaa/blob/main/My%20Neighbor%20Totoro%20Weight%20GIF.gif" width="100%" alt="Header animation">
 </p>
 
-<h1 align="center">Hi there 👋, I'm Humaira Mutia</h1>
-<h3 align="center">a calm developer who loves web design and learning new things ☁️</h3>
+<h1 align="center" style="color:#4c2f26;">Hi there 👋, I'm Humaira Mutia</h1>
+<h3 align="center" style="color:#7a574b;">a developer with a love for web design and thoughtful code</h3>
 
 ---
 
-### 🌱 About Me
-- 🎨 Interested in **web design** and creating interfaces that feel simple & peaceful.  
+### 🍂 About Me
+- 🎨 Passionate about **web design**, clean layouts, and soft visual tones.  
 - 💻 Currently learning **Kotlin**, **Java**, **Python**, and **HTML**.  
-- ☕ I enjoy quiet mornings, good code structure, and Ghibli-like calmness while working.  
-- 🌧️ Always open to learning something new and exploring creative ideas.
+- ☕ I enjoy building calm, minimal interfaces that feel natural and simple.  
+- 🌱 Always curious — always learning.
 
 ---
 
-### ☁️ Contact Me :
+### 📫 Contact Me
 <p align="left">
   <a href="https://instagram.com/humairamutiaa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%239bbad1.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23ffffff.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8b5e3c" />
   </a>
   <a href="mailto:hummeyramutia@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%239dc3c2.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-%23ffffff.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=7b4b38" />
   </a>
 </p>
 
 ---
 
-### 🪶 GitHub Stats :
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=humairamutiaa&show_icons=true&theme=calm&bg_color=00000000&title_color=7a9cc6&icon_color=8bbbd9&text_color=bfcbd7&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humairamutiaa&layout=compact&theme=calm&bg_color=00000000&title_color=7a9cc6&text_color=cad8e4&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=humairamutiaa&show_icons=true&theme=transparent&title_color=4c2f26&icon_color=7b4b38&text_color=5b3a30&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humairamutiaa&layout=compact&theme=transparent&title_color=4c2f26&text_color=5b3a30&hide_border=true" height="160"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/humairamutiaa/humairamutiaa/blob/main/My%20Neighbor%20Totoro%20Weight%20GIF.gif" width="180" alt="Totoro smiling">
+  <img src="https://github.com/humairamutiaa/humairamutiaa/blob/main/My%20Neighbor%20Totoro%20Weight%20GIF.gif" width="220" alt="Footer animation">
 </p>
 
-<p align="center">
-  <i>Thanks for visiting — may your day be as peaceful as Totoro’s forest 🌧️🍃</i>
+<p align="center" style="color:#4c2f26;">
+  <i>Thank you for visiting — may your day flow gently, like good coffee and clean code ☕</i>
 </p>
