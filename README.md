@@ -37,7 +37,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/humairamutiaa/humairamutiaa/blob/main/happy%20my%20neighbor%20totoro%20GIF.gif" width="200" alt="Footer animation">
+  <img src="https://github.com/humairamutiaa/humairamutiaa/blob/main/studio%20ghibli%20GIF.gif" width="200" alt="Footer animation">
 </p>
 
 <p align="center" style="color:#4c2f26;">
