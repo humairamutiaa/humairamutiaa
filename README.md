@@ -10,9 +10,9 @@
 
 ### 🧭 About Me
 - 💻 Passionate about web development and clean code  
-- 🌱 Currently learning: [Your current focus, e.g. TypeScript / React / Backend design]  
+- 🌱 Currently learning: Kotlin, Java, and Python
 - ✨ Interested in UI/UX design and creative technologies  
-- 📫 Reach me at: [youremail@example.com]  
+- 📫 Reach me at: hummeyramutia@gmail.com 
 
 ---
 
