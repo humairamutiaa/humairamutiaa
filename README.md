@@ -4,9 +4,10 @@
 </p>
 
 <h2 align="center" style="color:#4c2f26;">Hi there 👋, I'm Humaira Mutia</h2>
-<h3 align="center" style="color:#7b6a61;">a beginner who loves web design and learning new things</h3>
+<h3 align="center" style="color:#7b6a61;">☁️ a beginner who loves web design and learning new things☁️</h3>
+<h3 align="center" style="color:#7b6a61;"> ☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️</h3>
 
-☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️
+
 
 ### 🌷 About Me
 - 🎨 Passionate about **web design** and clean visual structure.  
