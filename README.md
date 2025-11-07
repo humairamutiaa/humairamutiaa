@@ -37,9 +37,10 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/humairamutiaa/humairamutiaa/blob/main/studio%20ghibli%20GIF.gif" width="200" alt="Footer animation">
+  <img src="https://github.com/humairamutiaa/humairamutiaa/blob/main/studio%20ghibli%20GIF.gif" width="500" alt="Footer animation">
 </p>
 
 <p align="center" style="color:#4c2f26;">
-  <i>Thanks for stopping by — wishing you a calm, inspired day ☕</i>
+  <i>Wishing you a calm, happy, and error-free coding day ☕</i>
 </p>
+
