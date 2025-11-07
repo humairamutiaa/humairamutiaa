@@ -1,6 +1,6 @@
 <!-- 🤍 Soft Ivory Header -->
 <p align="center" style="background-color:#FDFCF8;">
-  <img src="https://github.com/humairamutiaa/humairamutiaa/blob/main/happy%20my%20neighbor%20totoro%20GIF.gif" width="100%" alt="Header animation">
+  <img src="https://github.com/humairamutiaa/humairamutiaa/blob/main/my%20neighbor%20totoro%20GIF%20by%20Maudit.gif" width="100%" alt="Header animation">
 </p>
 
 <h1 align="center" style="color:#4c2f26;">Hi there 👋, I'm Humaira Mutia</h1>
