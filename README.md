@@ -3,8 +3,7 @@
   <img src="https://github.com/humairamutiaa/humairamutiaa/blob/main/my%20neighbor%20totoro%20GIF%20by%20Maudit.gif" width="100%" alt="Header animation">
 </p>
 
-<h2 align="center" style="color:#4c2f26;">Hi there 👋, I'm Humaira Mutia</h2>
-<h3 align="center" style="color:#7b6a61;"> ☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️</h3>
+<h2 align="center" style="color:#4c2f26;">💭Hi there, I'm Humaira Mutia!💭</h2>
 <h3 align="center" style="color:#7b6a61;">☁️ a beginner who loves web design and learning new things ☁️</h3>
 
 
