@@ -1,6 +1,6 @@
 <!-- 🌧️ Totoro Header -->
 <p align="right">
-  <img src="https://github.com/humairamutiaa/humairamutiaa/blob/main/My%20Neighbor%20Totoro%20Weight%20GIF.gif" width="200" alt="Totoro lifting weights">
+  <img src="https://github.com/humairamutiaa/humairamutiaa/blob/main/happy%20my%20neighbor%20totoro%20GIF.gif" width="200" alt="Totoro lifting weights">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Humaira Mutia</h1>
